@@ -57,8 +57,7 @@ The project follows a rigorous data science workflow:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/DiaPredict-ML.git](https://github.com/YourUsername/DiaPredict-ML.git)
-cd DiaPredict-ML
+git clone [https://github.com/Delwar2004/DiaPredict-ML-Comparison/tree/main]
 2. Install Dependencies
 Bash
 pip install pandas numpy scikit-learn
