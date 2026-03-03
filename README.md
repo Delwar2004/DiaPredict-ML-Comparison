@@ -1,5 +1,5 @@
 # 🩺 DiaPredict — Comparative Analysis of Diabetes Classification Models
-**An End-to-End Machine Learning Study on Clinical Prediction Stability & Model Generalization**
+**Comparative Analysis of Machine Learning Study on Clinical Prediction Stability & Model Generalization**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
