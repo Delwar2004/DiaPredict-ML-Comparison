@@ -56,15 +56,14 @@ The project follows a rigorous data science workflow:
 ## 💻 Installation & Usage
 
 ### 1. Clone the Repository
-```bash
-git clone [https://github.com/Delwar2004/DiaPredict-ML-Comparison/tree/main]
+git clone (https://github.com/Delwar2004/DiaPredict-ML-Comparison)
 2. Install Dependencies
 Bash
 pip install pandas numpy scikit-learn
 3. Run the Project
 Launch Jupyter Notebook.
 
-Open Diabetes_Prediction.ipynb and execute all cells.
+Open all Diabetes_Prediction.ipynb and execute all cells.
 
 🚀 Future Roadmap
 [ ] 🔧 Hyperparameter tuning using GridSearchCV.
